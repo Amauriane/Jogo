@@ -3,16 +3,16 @@ from tkinter import *
 from tkinter import ttk
 
 co0 = "#FFFFFF"
-co1 = "#333333"  
+co1 = "#696969"  
 co2 = "#fcc058"  
 co3 = "#38576b"  
-co4 = "#3297a8"   
+co4 = "#e85151"   
 co5 = "#fff873"  
 co6 = "#fcc058"  
 co7 = "#e85151"  
 co8 = co4 
 co10 ="#fcfbf7"
-fundo = "#3b3b3b" 
+fundo = "#A9A9A9"
 
 janela = Tk()
 janela.title('Jogo da Velha')
